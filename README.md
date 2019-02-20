@@ -4,7 +4,7 @@ BluedWeb组技术周刊
 [每周技术周刊传送门](https://github.com/bluedapp/BluedWeb_Technical_Weekly/issues?q=is%3Aissue+is%3Aopen+label%3Aweekly)
 
 ##  公司介绍
-`Blued`是北京蓝城兄弟信息技术有限公司旗下产品，于2012年年底上线，是目前国内最受欢迎、全球用户总数最多的垂直人群兴趣移动社交应用。
+**Blued**是北京蓝城兄弟信息技术有限公司旗下产品，于2012年年底上线，是目前国内最受欢迎、全球用户总数最多的垂直人群兴趣移动社交应用。
 
 以下是我司发展历程的介绍：
 
