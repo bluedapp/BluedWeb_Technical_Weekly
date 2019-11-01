@@ -56,7 +56,7 @@ BluedWeb组技术周刊
 
 - 熟练使用 React、Flux/Redux、ES6、Webpack；
 
-- 熟悉 Lnix 开发环境及效率工具；
+- 熟悉 Linux 开发环境及效率工具；
 
 - 对服务端基础概念有一定的理解。
 
